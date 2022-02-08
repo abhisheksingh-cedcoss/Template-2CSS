@@ -80,62 +80,11 @@ aside{
 
 }
 
-
-
-/* 
-.main{
-    float: left;
-    width: 50%;
-    margin-top: 15%;
-    padding-left: 20px;
-
-}
-
-.main_heading{
-    color: blue;
-}
-
-.aside_content{
-    padding-top: 0%;
-    padding-bottom: 100%;
-    height: 15px;
-
-
-    background-color: grey;
+footer{
     float: right;
-    margin-top: 8%;
-    width: 40%;
-
-}
-.sub_aside{
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-
-
-}
-
-footer{
     width: 100%;
-    bottom: 1%;
-    background-color: grey;
-    position: absolute;
+    height: 40px;
+    background-color: #333;
     text-align: right;
-    font-size: small;
-
-} */
-
-
-footer{
-    background-color: grey;
-    position: fixed;
-
-    width: 100%;
-    height: 30px;
-    text-align: right;
-    bottom: -100px;
-    clear: both;
-
-    
-
+    padding-top: 10px;
 }
